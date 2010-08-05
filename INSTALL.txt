@@ -1,0 +1,9 @@
+To Install ChemSurf program you need TQ-interface license.
+Copy tq.dll file to directory were the program is.
+
+Compile the fortran file ChemSurf.for with fortran compiler using build.bat.
+Currently only Intel's ifort and Compaq's df fortran  are working with
+tq.lib library. Current version of TQ wants also license file locally in the
+same directory were the program is installed.
+
+
